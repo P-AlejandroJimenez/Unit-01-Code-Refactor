@@ -2,6 +2,9 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    line-height: 1.5;
+
+    /*A line-height was added throughout the page.*/
 }
 
 body {
@@ -30,11 +33,9 @@ body {
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
+    color: #ffffff
 }
-
-.header div ul {
-    list-style-type: none;
-}
+/* An unecessary class ".header div ul" was removed. */
 
 .header div ul li {
     display: inline-block;
@@ -45,10 +46,7 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-
-p {
-    font-size: 16px;
-}
+/* A unecessary attribute "p" was removed in order to consolodate information. */
 
 .hero {
     height: 800px;
@@ -70,6 +68,8 @@ p {
 }
 
 .content {
+    font-family:sans-serif;
+    font-size: 16px;
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -115,20 +115,9 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
+/* Class "benefit-imgs" was created to remove rudundant information.*/
 
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
+.benefit-imgs {
     display: block;
     margin: 10px auto;
     max-width: 150px;
