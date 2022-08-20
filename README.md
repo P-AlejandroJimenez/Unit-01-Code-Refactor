@@ -18,8 +18,7 @@ A path to a screenshot of the finished appllication is posted below:
 
 ### Path to Screenshot of Webpage
 
-![alt text](assets/images/Screenshot-of-webpage_index.html.png)
-
+![alt text](assets/images/Screenshot-of-webpage_index.html (2).png)
 ## Credits
 N/A                      
 
