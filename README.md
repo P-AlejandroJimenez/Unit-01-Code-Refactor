@@ -17,7 +17,7 @@ The application additions can be accessed through the deployed website at the UR
 A path to a screenshot of the finished appllication is posted below:
 
 ### Path to Screenshot of Webpage
-[alt text](assets/images/Screenshot-of-webpage_index.html (2).png)
+![alt text](assets/images/Screenshot-of-webpage_index.html (2).png)
 ## Credits
 N/A                      
 
