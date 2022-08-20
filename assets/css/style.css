@@ -33,7 +33,6 @@ body {
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
-    color: #ffffff
 }
 /* An unecessary class ".header div ul" was removed. */
 
@@ -87,18 +86,9 @@ a {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
+/* A single class was used to replace three previous classes and consolodate redundant information.*/
 
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
+.benefit-box {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -115,26 +105,9 @@ h3 {
     margin: 10px auto;
     max-width: 150px;
 }
+/* Three classes of redundant information were compiled into one new class.*/
 
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
+.link-box-format {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -146,11 +119,6 @@ h3 {
 /* Redundant information was consolodated by created an h2 selector.*/
 
 h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
