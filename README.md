@@ -12,14 +12,14 @@ N/A
 
 ## Usage
 
-The application additions can be accessed through the deployed 
-Provide instructions and examples for use. Include screenshots as needed.
+The application additions can be accessed through the deployed website at the URl provided:
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+A path to a screenshot of the finished appllication is posted below:
 
-![alt text](assets/images/screenshot.png)
+### Path to Screenshot of Webpage
+[alt text](assets/images/Screenshot-of-webpage_index.html (2).png)
 ## Credits
-N/A
+N/A                      
 
 ## License
 
